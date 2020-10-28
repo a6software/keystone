@@ -13,7 +13,7 @@
     "@keystone-ui/core": "*",
     "@keystone-ui/icons": "*",
     "@keystone-ui/loading": "*",
-    "react": "^16.14.0"
+    "react": "^17.0.1"
   },
   "engines": {
     "node": ">=10.0.0"
