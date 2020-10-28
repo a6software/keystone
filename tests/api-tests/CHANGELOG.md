@@ -1,5 +1,12 @@
 # @keystonejs/api-tests
 
+## 8.0.3
+
+### Patch Changes
+
+- Updated dependencies [[`31ad142ea`](https://github.com/keystonejs/keystone/commit/31ad142ea058b178e2eda34e7ca4a29d1e99299c)]:
+  - @keystonejs/test-utils@10.0.0
+
 ## 8.0.2
 
 ### Patch Changes
